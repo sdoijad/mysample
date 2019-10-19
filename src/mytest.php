@@ -1,5 +1,5 @@
 <?php
-echo "this is my change 1";
+echo "this is my change in feature 1";
 /**
  * Implements hook_entity_info().
  */
